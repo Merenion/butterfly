@@ -7,8 +7,8 @@ import org.springframework.web.bind.annotation.RequestMethod;
 @Controller
 public class ContactController {
 
-    @RequestMapping(value = "/contacts", method = RequestMethod.GET)
-    public String main () {
-        return "contact";
-    }
+//    @RequestMapping(value = "/contacts", method = RequestMethod.GET)
+//    public String main () {
+//        return "contact";
+//    }
 }

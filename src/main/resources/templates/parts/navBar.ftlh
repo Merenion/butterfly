@@ -66,6 +66,7 @@
                                     </ul>
                                 </li>
                                 <li><a href="/contacts">Контакты</a></li>
+                                <li><a href="/login">Войти</a></li>
                             </ul>
                         </div>
                     </nav>

@@ -7,8 +7,8 @@ import org.springframework.web.bind.annotation.RequestMethod;
 @Controller
 public class ProjectsController {
 
-    @RequestMapping(value = "/projects", method = RequestMethod.GET)
-    public String main () {
-        return "projects";
-    }
+//    @RequestMapping(value = "/projects", method = RequestMethod.GET)
+//    public String main () {
+//        return "projects";
+//    }
 }
